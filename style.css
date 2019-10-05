@@ -1,0 +1,32 @@
+#left_list{
+    border-right:1px solid black !important;
+    box-shadow: 5px 3px 2px grey; 
+}
+#mylist{
+    height: 100%;
+}
+.list-group-flush{
+    margin: 0%;
+    padding: 0%;
+}
+#main{
+    margin-top: 100px;
+}
+#main-space{
+    background-color:rgb(230, 230, 255);
+    padding: 2%;
+    border-radius: 10px;
+}
+#content-space{
+    margin:100px;
+}
+#content-space .card{
+    margin:40px;
+    box-shadow: 5px 3px 2px grey;
+}
+#all_content{
+    background-color: rgb(245, 245,255);
+}
+h1{
+    margin-bottom: 20px;
+}
